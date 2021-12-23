@@ -1,9 +1,5 @@
-@noteblock (A open-source music bot based on lavalink.) 🤖: Version: 1.3.0.
-
-🎵 | Listen to a music with style! Feature rich with high quality music from YouTube/Soundcloud.
-
 Self Hosting
-Fill config.js
+- Fill config.js
 rename .env.scheme to .env
 Node.JS requirements 16.6.x
 Slash Commands
