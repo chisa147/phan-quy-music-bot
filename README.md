@@ -13,8 +13,8 @@
 
 # Running The Code
 - npm i
--npm start
--npm start:normal (for normal start, not running bash file, if your machine does not support node.js v16)
+- npm start
+- npm start:normal (for normal start, not running bash file, if your machine does not support node.js v16)
 # Plugin Used
 - better-erela.js-spotify Link
 - erela.js-deezer Link
