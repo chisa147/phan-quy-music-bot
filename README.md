@@ -5,7 +5,7 @@
 # Slash Commands
 - if you want to use the slash commands do:
 
--go to config.js
+- go to config.js
 - if updateSlash show false change to true
 - start bot
 - again to false
